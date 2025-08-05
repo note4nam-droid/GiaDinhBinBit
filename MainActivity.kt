@@ -1,0 +1,1 @@
+// MainActivity.kt - Xử lý tên người dùng, vai trò, gửi vị trí
